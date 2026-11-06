@@ -96,7 +96,7 @@
                 <version>3.13.0</version>
                 <configuration>
                     <fork>true</fork>
-                    <executable>D:/bin/javac.exe</executable>
+                    <executable>${java.home}/bin/javac.exe</executable>
                     <source>21</source>
                     <target>21</target>
                     <encoding>UTF-8</encoding>
